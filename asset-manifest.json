@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/xClassComp/static/css/main.f855e6bc.css",
+    "main.js": "/xClassComp/static/js/main.480f6750.js",
+    "static/js/453.6423fd9e.chunk.js": "/xClassComp/static/js/453.6423fd9e.chunk.js",
+    "index.html": "/xClassComp/index.html",
+    "main.f855e6bc.css.map": "/xClassComp/static/css/main.f855e6bc.css.map",
+    "main.480f6750.js.map": "/xClassComp/static/js/main.480f6750.js.map",
+    "453.6423fd9e.chunk.js.map": "/xClassComp/static/js/453.6423fd9e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.480f6750.js"
+  ]
+}
